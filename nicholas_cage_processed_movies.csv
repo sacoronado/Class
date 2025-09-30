@@ -1,0 +1,107 @@
+rank,title,release_year,imdb_rating,runtime,genres,imdb_url
+1,Spider-Man: Into the Spider-Verse,,8.4,,"['Animation', 'Action', 'Adventure']",https://www.imdb.com/title/tt4633694/
+2,Adaptation.,,7.7,,"['Comedy', 'Drama']",https://www.imdb.com/title/tt0268126/
+3,Moonstruck,,7.2,,"['Comedy', 'Drama', 'Romance']",https://www.imdb.com/title/tt0093565/
+4,Leaving Las Vegas,,7.5,,"['Drama', 'Romance']",https://www.imdb.com/title/tt0113627/
+5,Raising Arizona,,7.3,,"['Comedy', 'Crime']",https://www.imdb.com/title/tt0093822/
+6,Pig,,6.9,,"['Drama', 'Mystery']",https://www.imdb.com/title/tt11003218/
+7,Face/Off,,7.3,,"['Action', 'Crime', 'Sci-Fi']",https://www.imdb.com/title/tt0119094/
+8,Red Rock West,,7.0,,"['Crime', 'Drama', 'Thriller']",https://www.imdb.com/title/tt0105226/
+9,Kick-Ass,,7.6,,"['Action', 'Comedy', 'Crime']",https://www.imdb.com/title/tt1250777/
+10,The Unbearable Weight of Massive Talent,,7.0,,"['Action', 'Comedy', 'Crime']",https://www.imdb.com/title/tt11291274/
+11,Fast Times at Ridgemont High,,7.1,,"['Comedy', 'Drama']",https://www.imdb.com/title/tt0083929/
+12,Birdy,,7.2,,"['Drama', 'War']",https://www.imdb.com/title/tt0086969/
+13,Mandy,,6.5,,"['Action', 'Fantasy', 'Horror']",https://www.imdb.com/title/tt6998518/
+14,Dream Scenario,,6.8,,"['Comedy', 'Drama', 'Fantasy']",https://www.imdb.com/title/tt21942866/
+15,Bringing Out the Dead,,6.9,,"['Drama', 'Thriller']",https://www.imdb.com/title/tt0163988/
+16,Matchstick Men,,7.3,,"['Comedy', 'Crime', 'Drama']",https://www.imdb.com/title/tt0325805/
+17,Rumble Fish,,7.1,,"['Crime', 'Drama', 'Romance']",https://www.imdb.com/title/tt0086216/
+18,The Rock,,7.4,,"['Action', 'Adventure', 'Thriller']",https://www.imdb.com/title/tt0117500/
+19,Joe,,6.8,,"['Crime', 'Drama', 'Thriller']",https://www.imdb.com/title/tt2382396/
+20,Wild at Heart,,7.2,,"['Crime', 'Drama', 'Thriller']",https://www.imdb.com/title/tt0100935/
+21,Lord of War,,7.6,,"['Crime', 'Drama']",https://www.imdb.com/title/tt0399295/
+22,Valley Girl,,6.4,,"['Comedy', 'Romance']",https://www.imdb.com/title/tt0086525/
+23,Teen Titans Go! To the Movies,,6.7,,"['Animation', 'Action', 'Adventure']",https://www.imdb.com/title/tt7424200/
+24,The Bad Lieutenant: Port of Call - New Orleans,,6.6,,"['Crime', 'Drama', 'Mystery']",https://www.imdb.com/title/tt1095217/
+25,Longlegs,,6.6,,"['Crime', 'Horror', 'Mystery']",https://www.imdb.com/title/tt23468450/
+26,Peggy Sue Got Married,,6.4,,"['Comedy', 'Drama', 'Fantasy']",https://www.imdb.com/title/tt0091738/
+27,The Croods,,7.1,,"['Animation', 'Adventure', 'Comedy']",https://www.imdb.com/title/tt0481499/
+28,Color Out of Space,,6.1,,"['Horror', 'Mystery', 'Sci-Fi']",https://www.imdb.com/title/tt5073642/
+29,The Cotton Club,,6.6,,"['Crime', 'Drama', 'Music']",https://www.imdb.com/title/tt0087089/
+30,The Croods: A New Age,,6.9,,"['Animation', 'Adventure', 'Comedy']",https://www.imdb.com/title/tt2850386/
+31,The Surfer,,6.0,,['Thriller'],https://www.imdb.com/title/tt27813235/
+32,City of Angels,,6.7,,"['Drama', 'Fantasy', 'Romance']",https://www.imdb.com/title/tt0120632/
+33,Snowden,,7.3,,"['Biography', 'Crime', 'Drama']",https://www.imdb.com/title/tt3774114/
+34,Con Air,,6.9,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt0118880/
+35,Racing with the Moon,,6.6,,"['Comedy', 'Drama', 'Romance']",https://www.imdb.com/title/tt0087968/
+36,It Could Happen to You,,6.4,,"['Comedy', 'Drama', 'Romance']",https://www.imdb.com/title/tt0110167/
+37,World Trade Center,,6.0,,"['Drama', 'History', 'Thriller']",https://www.imdb.com/title/tt0469641/
+38,Renfield,,6.4,,"['Action', 'Comedy', 'Fantasy']",https://www.imdb.com/title/tt11358390/
+39,The Weather Man,,6.5,,"['Comedy', 'Drama']",https://www.imdb.com/title/tt0384680/
+40,Butcher's Crossing,,5.6,,"['Adventure', 'Drama', 'Western']",https://www.imdb.com/title/tt1462759/
+41,National Treasure,,6.9,,"['Action', 'Adventure', 'Mystery']",https://www.imdb.com/title/tt0368891/
+42,The Family Man,,6.8,,"['Comedy', 'Drama', 'Fantasy']",https://www.imdb.com/title/tt0218967/
+43,Mom and Dad,,5.6,,"['Comedy', 'Horror', 'Thriller']",https://www.imdb.com/title/tt5462326/
+44,Kiss of Death,,6.0,,"['Crime', 'Drama', 'Thriller']",https://www.imdb.com/title/tt0113552/
+45,Guarding Tess,,6.2,,"['Comedy', 'Drama']",https://www.imdb.com/title/tt0109951/
+46,Vampire's Kiss,,6.1,,"['Comedy', 'Crime', 'Fantasy']",https://www.imdb.com/title/tt0098577/
+47,Honeymoon in Vegas,,5.9,,"['Comedy', 'Romance', 'Thriller']",https://www.imdb.com/title/tt0104438/
+48,National Treasure: Book of Secrets,,6.5,,"['Action', 'Adventure', 'Mystery']",https://www.imdb.com/title/tt0465234/
+49,Astro Boy,,6.2,,"['Animation', 'Action', 'Adventure']",https://www.imdb.com/title/tt0375568/
+50,Willy's Wonderland,,5.5,,"['Action', 'Comedy', 'Horror']",https://www.imdb.com/title/tt8114980/
+51,Snake Eyes,,6.1,,"['Crime', 'Mystery', 'Thriller']",https://www.imdb.com/title/tt0120832/
+52,Sympathy for the Devil,,5.5,,"['Action', 'Thriller']",https://www.imdb.com/title/tt21991654/
+53,The Ant Bully,,5.8,,"['Animation', 'Adventure', 'Comedy']",https://www.imdb.com/title/tt0429589/
+54,Windtalkers,,6.1,,"['Action', 'Drama', 'War']",https://www.imdb.com/title/tt0245562/
+55,Gone in Sixty Seconds,,6.5,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt0187078/
+56,The Trust,,5.5,,"['Action', 'Crime', 'Drama']",https://www.imdb.com/title/tt3733774/
+57,Arcadian,,5.5,,"['Action', 'Drama', 'Horror']",https://www.imdb.com/title/tt22939186/
+58,The Sorcerer's Apprentice,,6.1,,"['Action', 'Adventure', 'Family']",https://www.imdb.com/title/tt0963966/
+59,The Frozen Ground,,6.4,,"['Biography', 'Crime', 'Drama']",https://www.imdb.com/title/tt2005374/
+60,The Old Way,,5.6,,"['Action', 'Drama', 'Western']",https://www.imdb.com/title/tt8593824/
+61,Knowing,,6.2,,"['Mystery', 'Sci-Fi', 'Thriller']",https://www.imdb.com/title/tt0448011/
+62,Next,,6.2,,"['Action', 'Sci-Fi', 'Thriller']",https://www.imdb.com/title/tt0435705/
+63,Trapped in Paradise,,5.9,,"['Adventure', 'Comedy', 'Crime']",https://www.imdb.com/title/tt0111477/
+64,Captain Corelli's Mandolin,,5.9,,"['Drama', 'Music', 'Romance']",https://www.imdb.com/title/tt0238112/
+65,Amos & Andrew,,5.7,,"['Comedy', 'Crime']",https://www.imdb.com/title/tt0106266/
+66,Seeking Justice,,6.1,,"['Action', 'Drama', 'Mystery']",https://www.imdb.com/title/tt1214962/
+67,The Retirement Plan,,5.1,,"['Action', 'Comedy', 'Crime']",https://www.imdb.com/title/tt14827638/
+68,Dog Eat Dog,,4.8,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt4054654/
+69,8MM,,6.6,,"['Crime', 'Drama', 'Mystery']",https://www.imdb.com/title/tt0134273/
+70,Prisoners of the Ghostland,,4.2,,"['Fantasy', 'Horror', 'Thriller']",https://www.imdb.com/title/tt6372694/
+71,Drive Angry,,5.4,,"['Action', 'Comedy', 'Fantasy']",https://www.imdb.com/title/tt1502404/
+72,Inconceivable,,5.2,,"['Drama', 'Thriller']",https://www.imdb.com/title/tt3481634/
+73,Army of One,,5.2,,"['Biography', 'Comedy', 'Crime']",https://www.imdb.com/title/tt4382824/
+74,The Boy in Blue,,5.3,,"['Biography', 'Drama', 'Sport']",https://www.imdb.com/title/tt0090769/
+75,Sonny,,5.6,,"['Crime', 'Drama']",https://www.imdb.com/title/tt0305973/
+76,Ghost Rider,,5.3,,"['Action', 'Fantasy', 'Thriller']",https://www.imdb.com/title/tt0259324/
+77,Stolen,,5.5,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt1656186/
+78,Running with the Devil,,5.4,,"['Crime', 'Drama', 'Thriller']",https://www.imdb.com/title/tt5792656/
+79,Tempo di uccidere,,5.0,,"['Drama', 'War']",https://www.imdb.com/title/tt0100762/
+80,G-Force,,5.1,,"['Animation', 'Action', 'Adventure']",https://www.imdb.com/title/tt0436339/
+81,Kill Chain,,5.0,,"['Action', 'Drama', 'Thriller']",https://www.imdb.com/title/tt8535180/
+82,The Runner,,4.7,,['Drama'],https://www.imdb.com/title/tt3687398/
+83,Vengeance: A Love Story,,5.2,,"['Action', 'Adventure', 'Crime']",https://www.imdb.com/title/tt5460530/
+84,Fire Birds,,4.8,,"['Action', 'Adventure']",https://www.imdb.com/title/tt0099575/
+85,Zandalee,,4.3,,"['Drama', 'Romance', 'Thriller']",https://www.imdb.com/title/tt0101004/
+86,Season of the Witch,,5.4,,"['Action', 'Adventure', 'Fantasy']",https://www.imdb.com/title/tt0479997/
+87,Grand Isle,,4.7,,"['Crime', 'Mystery', 'Thriller']",https://www.imdb.com/title/tt8380776/
+88,Trespass,,5.3,,"['Crime', 'Drama', 'Mystery']",https://www.imdb.com/title/tt1674784/
+89,Between Worlds,,3.9,,"['Fantasy', 'Mystery', 'Thriller']",https://www.imdb.com/title/tt7295450/
+90,A Score to Settle,,4.8,,"['Action', 'Crime', 'Drama']",https://www.imdb.com/title/tt3758162/
+91,USS Indianapolis: Men of Courage,,5.3,,"['Action', 'Drama', 'History']",https://www.imdb.com/title/tt2032572/
+92,Primal,,4.9,,"['Action', 'Thriller']",https://www.imdb.com/title/tt7394816/
+93,Dying of the Light,,4.5,,"['Action', 'Drama', 'Thriller']",https://www.imdb.com/title/tt1274586/
+94,Ghost Rider: Spirit of Vengeance,,4.4,,"['Action', 'Fantasy', 'Thriller']",https://www.imdb.com/title/tt1071875/
+95,Bangkok Dangerous,,5.3,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt0814022/
+96,Tokarev,,5.0,,"['Action', 'Thriller']",https://www.imdb.com/title/tt2401807/
+97,Deadfall,,4.0,,"['Crime', 'Drama']",https://www.imdb.com/title/tt0106684/
+98,Pay the Ghost,,5.2,,"['Horror', 'Mystery']",https://www.imdb.com/title/tt3733778/
+99,Looking Glass,,4.7,,"['Mystery', 'Thriller']",https://www.imdb.com/title/tt6083648/
+100,Outcast,,4.6,,"['Action', 'Adventure', 'Thriller']",https://www.imdb.com/title/tt1552224/
+101,The Humanity Bureau,,4.5,,"['Action', 'Sci-Fi', 'Thriller']",https://www.imdb.com/title/tt6143568/
+102,Jiu Jitsu,,2.9,,"['Action', 'Sci-Fi', 'Thriller']",https://www.imdb.com/title/tt9624766/
+103,The Wicker Man,,3.8,,"['Horror', 'Mystery', 'Thriller']",https://www.imdb.com/title/tt0450345/
+104,Arsenal,,4.0,,"['Action', 'Crime', 'Thriller']",https://www.imdb.com/title/tt5580536/
+105,Left Behind,,3.1,,"['Action', 'Fantasy', 'Sci-Fi']",https://www.imdb.com/title/tt2467046/
+106,211,,4.4,,"['Action', 'Drama', 'Thriller']",https://www.imdb.com/title/tt4976192/

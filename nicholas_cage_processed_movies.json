@@ -1,0 +1,1354 @@
+[
+  {
+    "rank": 1,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "release_year": null,
+    "imdb_rating": 8.4,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4633694/"
+  },
+  {
+    "rank": 2,
+    "title": "Adaptation.",
+    "release_year": null,
+    "imdb_rating": 7.7,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0268126/"
+  },
+  {
+    "rank": 3,
+    "title": "Moonstruck",
+    "release_year": null,
+    "imdb_rating": 7.2,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0093565/"
+  },
+  {
+    "rank": 4,
+    "title": "Leaving Las Vegas",
+    "release_year": null,
+    "imdb_rating": 7.5,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0113627/"
+  },
+  {
+    "rank": 5,
+    "title": "Raising Arizona",
+    "release_year": null,
+    "imdb_rating": 7.3,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0093822/"
+  },
+  {
+    "rank": 6,
+    "title": "Pig",
+    "release_year": null,
+    "imdb_rating": 6.9,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt11003218/"
+  },
+  {
+    "rank": 7,
+    "title": "Face/Off",
+    "release_year": null,
+    "imdb_rating": 7.3,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0119094/"
+  },
+  {
+    "rank": 8,
+    "title": "Red Rock West",
+    "release_year": null,
+    "imdb_rating": 7,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0105226/"
+  },
+  {
+    "rank": 9,
+    "title": "Kick-Ass",
+    "release_year": null,
+    "imdb_rating": 7.6,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1250777/"
+  },
+  {
+    "rank": 10,
+    "title": "The Unbearable Weight of Massive Talent",
+    "release_year": null,
+    "imdb_rating": 7,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt11291274/"
+  },
+  {
+    "rank": 11,
+    "title": "Fast Times at Ridgemont High",
+    "release_year": null,
+    "imdb_rating": 7.1,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0083929/"
+  },
+  {
+    "rank": 12,
+    "title": "Birdy",
+    "release_year": null,
+    "imdb_rating": 7.2,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086969/"
+  },
+  {
+    "rank": 13,
+    "title": "Mandy",
+    "release_year": null,
+    "imdb_rating": 6.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6998518/"
+  },
+  {
+    "rank": 14,
+    "title": "Dream Scenario",
+    "release_year": null,
+    "imdb_rating": 6.8,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt21942866/"
+  },
+  {
+    "rank": 15,
+    "title": "Bringing Out the Dead",
+    "release_year": null,
+    "imdb_rating": 6.9,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0163988/"
+  },
+  {
+    "rank": 16,
+    "title": "Matchstick Men",
+    "release_year": null,
+    "imdb_rating": 7.3,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0325805/"
+  },
+  {
+    "rank": 17,
+    "title": "Rumble Fish",
+    "release_year": null,
+    "imdb_rating": 7.1,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086216/"
+  },
+  {
+    "rank": 18,
+    "title": "The Rock",
+    "release_year": null,
+    "imdb_rating": 7.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0117500/"
+  },
+  {
+    "rank": 19,
+    "title": "Joe",
+    "release_year": null,
+    "imdb_rating": 6.8,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2382396/"
+  },
+  {
+    "rank": 20,
+    "title": "Wild at Heart",
+    "release_year": null,
+    "imdb_rating": 7.2,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0100935/"
+  },
+  {
+    "rank": 21,
+    "title": "Lord of War",
+    "release_year": null,
+    "imdb_rating": 7.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0399295/"
+  },
+  {
+    "rank": 22,
+    "title": "Valley Girl",
+    "release_year": null,
+    "imdb_rating": 6.4,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0086525/"
+  },
+  {
+    "rank": 23,
+    "title": "Teen Titans Go! To the Movies",
+    "release_year": null,
+    "imdb_rating": 6.7,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt7424200/"
+  },
+  {
+    "rank": 24,
+    "title": "The Bad Lieutenant: Port of Call - New Orleans",
+    "release_year": null,
+    "imdb_rating": 6.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1095217/"
+  },
+  {
+    "rank": 25,
+    "title": "Longlegs",
+    "release_year": null,
+    "imdb_rating": 6.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt23468450/"
+  },
+  {
+    "rank": 26,
+    "title": "Peggy Sue Got Married",
+    "release_year": null,
+    "imdb_rating": 6.4,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0091738/"
+  },
+  {
+    "rank": 27,
+    "title": "The Croods",
+    "release_year": null,
+    "imdb_rating": 7.1,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0481499/"
+  },
+  {
+    "rank": 28,
+    "title": "Color Out of Space",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5073642/"
+  },
+  {
+    "rank": 29,
+    "title": "The Cotton Club",
+    "release_year": null,
+    "imdb_rating": 6.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0087089/"
+  },
+  {
+    "rank": 30,
+    "title": "The Croods: A New Age",
+    "release_year": null,
+    "imdb_rating": 6.9,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2850386/"
+  },
+  {
+    "rank": 31,
+    "title": "The Surfer",
+    "release_year": null,
+    "imdb_rating": 6,
+    "runtime": null,
+    "genres": [
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt27813235/"
+  },
+  {
+    "rank": 32,
+    "title": "City of Angels",
+    "release_year": null,
+    "imdb_rating": 6.7,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120632/"
+  },
+  {
+    "rank": 33,
+    "title": "Snowden",
+    "release_year": null,
+    "imdb_rating": 7.3,
+    "runtime": null,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3774114/"
+  },
+  {
+    "rank": 34,
+    "title": "Con Air",
+    "release_year": null,
+    "imdb_rating": 6.9,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0118880/"
+  },
+  {
+    "rank": 35,
+    "title": "Racing with the Moon",
+    "release_year": null,
+    "imdb_rating": 6.6,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0087968/"
+  },
+  {
+    "rank": 36,
+    "title": "It Could Happen to You",
+    "release_year": null,
+    "imdb_rating": 6.4,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0110167/"
+  },
+  {
+    "rank": 37,
+    "title": "World Trade Center",
+    "release_year": null,
+    "imdb_rating": 6,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0469641/"
+  },
+  {
+    "rank": 38,
+    "title": "Renfield",
+    "release_year": null,
+    "imdb_rating": 6.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt11358390/"
+  },
+  {
+    "rank": 39,
+    "title": "The Weather Man",
+    "release_year": null,
+    "imdb_rating": 6.5,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0384680/"
+  },
+  {
+    "rank": 40,
+    "title": "Butcher's Crossing",
+    "release_year": null,
+    "imdb_rating": 5.6,
+    "runtime": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1462759/"
+  },
+  {
+    "rank": 41,
+    "title": "National Treasure",
+    "release_year": null,
+    "imdb_rating": 6.9,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0368891/"
+  },
+  {
+    "rank": 42,
+    "title": "The Family Man",
+    "release_year": null,
+    "imdb_rating": 6.8,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0218967/"
+  },
+  {
+    "rank": 43,
+    "title": "Mom and Dad",
+    "release_year": null,
+    "imdb_rating": 5.6,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5462326/"
+  },
+  {
+    "rank": 44,
+    "title": "Kiss of Death",
+    "release_year": null,
+    "imdb_rating": 6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0113552/"
+  },
+  {
+    "rank": 45,
+    "title": "Guarding Tess",
+    "release_year": null,
+    "imdb_rating": 6.2,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0109951/"
+  },
+  {
+    "rank": 46,
+    "title": "Vampire's Kiss",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0098577/"
+  },
+  {
+    "rank": 47,
+    "title": "Honeymoon in Vegas",
+    "release_year": null,
+    "imdb_rating": 5.9,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0104438/"
+  },
+  {
+    "rank": 48,
+    "title": "National Treasure: Book of Secrets",
+    "release_year": null,
+    "imdb_rating": 6.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0465234/"
+  },
+  {
+    "rank": 49,
+    "title": "Astro Boy",
+    "release_year": null,
+    "imdb_rating": 6.2,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0375568/"
+  },
+  {
+    "rank": 50,
+    "title": "Willy's Wonderland",
+    "release_year": null,
+    "imdb_rating": 5.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8114980/"
+  },
+  {
+    "rank": 51,
+    "title": "Snake Eyes",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0120832/"
+  },
+  {
+    "rank": 52,
+    "title": "Sympathy for the Devil",
+    "release_year": null,
+    "imdb_rating": 5.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt21991654/"
+  },
+  {
+    "rank": 53,
+    "title": "The Ant Bully",
+    "release_year": null,
+    "imdb_rating": 5.8,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0429589/"
+  },
+  {
+    "rank": 54,
+    "title": "Windtalkers",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0245562/"
+  },
+  {
+    "rank": 55,
+    "title": "Gone in Sixty Seconds",
+    "release_year": null,
+    "imdb_rating": 6.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0187078/"
+  },
+  {
+    "rank": 56,
+    "title": "The Trust",
+    "release_year": null,
+    "imdb_rating": 5.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3733774/"
+  },
+  {
+    "rank": 57,
+    "title": "Arcadian",
+    "release_year": null,
+    "imdb_rating": 5.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt22939186/"
+  },
+  {
+    "rank": 58,
+    "title": "The Sorcerer's Apprentice",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0963966/"
+  },
+  {
+    "rank": 59,
+    "title": "The Frozen Ground",
+    "release_year": null,
+    "imdb_rating": 6.4,
+    "runtime": null,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2005374/"
+  },
+  {
+    "rank": 60,
+    "title": "The Old Way",
+    "release_year": null,
+    "imdb_rating": 5.6,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8593824/"
+  },
+  {
+    "rank": 61,
+    "title": "Knowing",
+    "release_year": null,
+    "imdb_rating": 6.2,
+    "runtime": null,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0448011/"
+  },
+  {
+    "rank": 62,
+    "title": "Next",
+    "release_year": null,
+    "imdb_rating": 6.2,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0435705/"
+  },
+  {
+    "rank": 63,
+    "title": "Trapped in Paradise",
+    "release_year": null,
+    "imdb_rating": 5.9,
+    "runtime": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0111477/"
+  },
+  {
+    "rank": 64,
+    "title": "Captain Corelli's Mandolin",
+    "release_year": null,
+    "imdb_rating": 5.9,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0238112/"
+  },
+  {
+    "rank": 65,
+    "title": "Amos & Andrew",
+    "release_year": null,
+    "imdb_rating": 5.7,
+    "runtime": null,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0106266/"
+  },
+  {
+    "rank": 66,
+    "title": "Seeking Justice",
+    "release_year": null,
+    "imdb_rating": 6.1,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1214962/"
+  },
+  {
+    "rank": 67,
+    "title": "The Retirement Plan",
+    "release_year": null,
+    "imdb_rating": 5.1,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt14827638/"
+  },
+  {
+    "rank": 68,
+    "title": "Dog Eat Dog",
+    "release_year": null,
+    "imdb_rating": 4.8,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4054654/"
+  },
+  {
+    "rank": 69,
+    "title": "8MM",
+    "release_year": null,
+    "imdb_rating": 6.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0134273/"
+  },
+  {
+    "rank": 70,
+    "title": "Prisoners of the Ghostland",
+    "release_year": null,
+    "imdb_rating": 4.2,
+    "runtime": null,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6372694/"
+  },
+  {
+    "rank": 71,
+    "title": "Drive Angry",
+    "release_year": null,
+    "imdb_rating": 5.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1502404/"
+  },
+  {
+    "rank": 72,
+    "title": "Inconceivable",
+    "release_year": null,
+    "imdb_rating": 5.2,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3481634/"
+  },
+  {
+    "rank": 73,
+    "title": "Army of One",
+    "release_year": null,
+    "imdb_rating": 5.2,
+    "runtime": null,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4382824/"
+  },
+  {
+    "rank": 74,
+    "title": "The Boy in Blue",
+    "release_year": null,
+    "imdb_rating": 5.3,
+    "runtime": null,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0090769/"
+  },
+  {
+    "rank": 75,
+    "title": "Sonny",
+    "release_year": null,
+    "imdb_rating": 5.6,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0305973/"
+  },
+  {
+    "rank": 76,
+    "title": "Ghost Rider",
+    "release_year": null,
+    "imdb_rating": 5.3,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0259324/"
+  },
+  {
+    "rank": 77,
+    "title": "Stolen",
+    "release_year": null,
+    "imdb_rating": 5.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1656186/"
+  },
+  {
+    "rank": 78,
+    "title": "Running with the Devil",
+    "release_year": null,
+    "imdb_rating": 5.4,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5792656/"
+  },
+  {
+    "rank": 79,
+    "title": "Tempo di uccidere",
+    "release_year": null,
+    "imdb_rating": 5,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0100762/"
+  },
+  {
+    "rank": 80,
+    "title": "G-Force",
+    "release_year": null,
+    "imdb_rating": 5.1,
+    "runtime": null,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0436339/"
+  },
+  {
+    "rank": 81,
+    "title": "Kill Chain",
+    "release_year": null,
+    "imdb_rating": 5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8535180/"
+  },
+  {
+    "rank": 82,
+    "title": "The Runner",
+    "release_year": null,
+    "imdb_rating": 4.7,
+    "runtime": null,
+    "genres": [
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3687398/"
+  },
+  {
+    "rank": 83,
+    "title": "Vengeance: A Love Story",
+    "release_year": null,
+    "imdb_rating": 5.2,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5460530/"
+  },
+  {
+    "rank": 84,
+    "title": "Fire Birds",
+    "release_year": null,
+    "imdb_rating": 4.8,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0099575/"
+  },
+  {
+    "rank": 85,
+    "title": "Zandalee",
+    "release_year": null,
+    "imdb_rating": 4.3,
+    "runtime": null,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0101004/"
+  },
+  {
+    "rank": 86,
+    "title": "Season of the Witch",
+    "release_year": null,
+    "imdb_rating": 5.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0479997/"
+  },
+  {
+    "rank": 87,
+    "title": "Grand Isle",
+    "release_year": null,
+    "imdb_rating": 4.7,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt8380776/"
+  },
+  {
+    "rank": 88,
+    "title": "Trespass",
+    "release_year": null,
+    "imdb_rating": 5.3,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1674784/"
+  },
+  {
+    "rank": 89,
+    "title": "Between Worlds",
+    "release_year": null,
+    "imdb_rating": 3.9,
+    "runtime": null,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt7295450/"
+  },
+  {
+    "rank": 90,
+    "title": "A Score to Settle",
+    "release_year": null,
+    "imdb_rating": 4.8,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3758162/"
+  },
+  {
+    "rank": 91,
+    "title": "USS Indianapolis: Men of Courage",
+    "release_year": null,
+    "imdb_rating": 5.3,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2032572/"
+  },
+  {
+    "rank": 92,
+    "title": "Primal",
+    "release_year": null,
+    "imdb_rating": 4.9,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt7394816/"
+  },
+  {
+    "rank": 93,
+    "title": "Dying of the Light",
+    "release_year": null,
+    "imdb_rating": 4.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1274586/"
+  },
+  {
+    "rank": 94,
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "release_year": null,
+    "imdb_rating": 4.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1071875/"
+  },
+  {
+    "rank": 95,
+    "title": "Bangkok Dangerous",
+    "release_year": null,
+    "imdb_rating": 5.3,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0814022/"
+  },
+  {
+    "rank": 96,
+    "title": "Tokarev",
+    "release_year": null,
+    "imdb_rating": 5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2401807/"
+  },
+  {
+    "rank": 97,
+    "title": "Deadfall",
+    "release_year": null,
+    "imdb_rating": 4,
+    "runtime": null,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0106684/"
+  },
+  {
+    "rank": 98,
+    "title": "Pay the Ghost",
+    "release_year": null,
+    "imdb_rating": 5.2,
+    "runtime": null,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt3733778/"
+  },
+  {
+    "rank": 99,
+    "title": "Looking Glass",
+    "release_year": null,
+    "imdb_rating": 4.7,
+    "runtime": null,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6083648/"
+  },
+  {
+    "rank": 100,
+    "title": "Outcast",
+    "release_year": null,
+    "imdb_rating": 4.6,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt1552224/"
+  },
+  {
+    "rank": 101,
+    "title": "The Humanity Bureau",
+    "release_year": null,
+    "imdb_rating": 4.5,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt6143568/"
+  },
+  {
+    "rank": 102,
+    "title": "Jiu Jitsu",
+    "release_year": null,
+    "imdb_rating": 2.9,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt9624766/"
+  },
+  {
+    "rank": 103,
+    "title": "The Wicker Man",
+    "release_year": null,
+    "imdb_rating": 3.8,
+    "runtime": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt0450345/"
+  },
+  {
+    "rank": 104,
+    "title": "Arsenal",
+    "release_year": null,
+    "imdb_rating": 4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt5580536/"
+  },
+  {
+    "rank": 105,
+    "title": "Left Behind",
+    "release_year": null,
+    "imdb_rating": 3.1,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt2467046/"
+  },
+  {
+    "rank": 106,
+    "title": "211",
+    "release_year": null,
+    "imdb_rating": 4.4,
+    "runtime": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdb_url": "https://www.imdb.com/title/tt4976192/"
+  }
+]
