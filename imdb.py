@@ -73,7 +73,7 @@ movies = scrape_nicholas_cage_movies()
 if movies:
     df = pd.DataFrame(movies)
     df.to_csv('nicholas_cage_movies.csv', index=False)
-    print(f"✅ Successfully extracted {len(movies)} movies!")
+    print(f"Successfully extracted {len(movies)} movies!")
     print(df.head(10))
 else:
-    print("❌ Could not extract movies. The page structure may require different selectors.")
+    print("Could not extract movies. The page structure may require different selectors.")

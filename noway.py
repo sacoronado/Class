@@ -19,10 +19,10 @@ def setup_client():
             base_url=endpoint,
             api_key=api_key
         )
-        print("✅ OpenAI client configured successfully")
+        print("OpenAI client configured successfully")
         return client
     except Exception as e:
-        print(f"❌ Error setting up OpenAI client: {e}")
+        print(f"Error setting up OpenAI client: {e}")
         return None
 
 client = setup_client()
@@ -33,7 +33,7 @@ def debug_print(message):
 
 def scrape_nicholas_cage_movies():
     """Scrape ALL Nicholas Cage movies from IMDB list with proper selectors"""
-    debug_print("📊 Starting web scraping...")
+    debug_print("Starting web scraping...")
     
     url = 'https://www.imdb.com/list/ls086744766/'
     headers = {
@@ -41,7 +41,7 @@ def scrape_nicholas_cage_movies():
     }
     
     try:
-        debug_print("🔗 Making request to IMDB...")
+        debug_print("Making request to IMDB...")
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         
@@ -51,7 +51,7 @@ def scrape_nicholas_cage_movies():
         # Debug: Save the HTML to see what we're working with
         with open('imdb_page_debug.html', 'w', encoding='utf-8') as f:
             f.write(soup.prettify())
-        debug_print("💾 Saved page HTML to 'imdb_page_debug.html' for inspection")
+        debug_print("Saved page HTML to 'imdb_page_debug.html' for inspection")
         
         # Try multiple selectors to find the movie containers
         selectors_to_try = [
@@ -64,16 +64,16 @@ def scrape_nicholas_cage_movies():
         movie_containers = []
         for selector in selectors_to_try:
             found = soup.select(selector)
-            debug_print(f"🔍 Selector '{selector}': found {len(found)} items")
+            debug_print(f"Selector '{selector}': found {len(found)} items")
             if found and len(found) > len(movie_containers):
                 movie_containers = found
         
         # If still no containers, try finding by text content
         if not movie_containers:
-            debug_print("🔄 Trying alternative approach - searching for movie links...")
+            debug_print("Trying alternative approach - searching for movie links...")
             # Find all movie title links
             movie_links = soup.find_all('a', href=re.compile(r'/title/tt\d+'))
-            debug_print(f"🔗 Found {len(movie_links)} movie links total")
+            debug_print(f"Found {len(movie_links)} movie links total")
             
             # Filter to get unique movies (avoid duplicates)
             unique_links = []
@@ -85,14 +85,14 @@ def scrape_nicholas_cage_movies():
                     unique_links.append(link)
             
             movie_containers = unique_links
-            debug_print(f"🎬 Found {len(movie_containers)} unique movie titles")
+            debug_print(f"Found {len(movie_containers)} unique movie titles")
         
-        debug_print(f"🎬 Total items to process: {len(movie_containers)}")
+        debug_print(f"Total items to process: {len(movie_containers)}")
         
         # Process each movie container
         for index, container in enumerate(movie_containers, 1):
             try:
-                debug_print(f"📝 Processing item {index}...")
+                debug_print(f"Processing item {index}...")
                 
                 # Extract title based on container type
                 if container.name == 'a':  # Direct link element
@@ -113,7 +113,7 @@ def scrape_nicholas_cage_movies():
                         parent = container
                 
                 if not movie_title or movie_title == '...':
-                    debug_print("   ❌ Empty title, skipping")
+                    debug_print("Empty title, skipping")
                     continue
                 
                 debug_print(f"   Title: {movie_title}")
@@ -154,25 +154,25 @@ def scrape_nicholas_cage_movies():
                     "raw_rank": index
                 })
                 
-                debug_print(f"   ✅ Added: {movie_title} ({year})")
+                debug_print(f"Added: {movie_title} ({year})")
                 
             except Exception as e:
-                debug_print(f"   ❌ Error processing item {index}: {e}")
+                debug_print(f"Error processing item {index}: {e}")
                 continue
         
-        debug_print(f"✅ Successfully processed {len(movies_list)} movies")
+        debug_print(f"Successfully processed {len(movies_list)} movies")
         
         # If we still don't have enough movies, try a different approach
         if len(movies_list) < 50:
-            debug_print("🔄 Trying secondary scraping approach...")
+            debug_print("Trying secondary scraping approach...")
             secondary_movies = scrape_secondary_approach(soup)
             movies_list.extend(secondary_movies)
-            debug_print(f"📦 Total after secondary approach: {len(movies_list)} movies")
+            debug_print(f"Total after secondary approach: {len(movies_list)} movies")
         
         return movies_list
         
     except Exception as e:
-        debug_print(f"❌ Error in web scraping: {e}")
+        debug_print(f"Error in web scraping: {e}")
         return []
 
 def scrape_secondary_approach(soup):
@@ -208,11 +208,11 @@ def process_movies_with_llm(raw_movies, batch_size=15):
     if not raw_movies:
         return None
     
-    debug_print(f"🤖 Processing {len(raw_movies)} movies with LLM...")
+    debug_print(f"Processing {len(raw_movies)} movies with LLM...")
     
     # If we have many movies, process in batches
     if len(raw_movies) > batch_size:
-        debug_print(f"📦 Processing in batches of {batch_size}...")
+        debug_print(f"Processing in batches of {batch_size}...")
         all_processed = []
         
         for i in range(0, len(raw_movies), batch_size):
@@ -235,7 +235,7 @@ def process_movies_with_llm(raw_movies, batch_size=15):
                     "imdb_url": movie["raw_url"]
                 } for movie in batch]
                 all_processed.extend(fallback_batch)
-                debug_print(f"   ⚠️ Used fallback data for batch {batch_num}")
+                debug_print(f"Used fallback data for batch {batch_num}")
             
             time.sleep(1)  # Rate limiting
         
@@ -245,7 +245,7 @@ def process_movies_with_llm(raw_movies, batch_size=15):
 
 def process_single_batch(movies, batch_num=1):
     """Process a single batch of movies with LLM"""
-    debug_print(f"   📤 Sending batch {batch_num} to LLM ({len(movies)} movies)...")
+    debug_print(f"Sending batch {batch_num} to LLM ({len(movies)} movies)...")
     
     # Prepare the data for LLM
     movies_text = "MOVIE DATA TO PROCESS:\n\n"
@@ -305,50 +305,50 @@ def process_single_batch(movies, batch_num=1):
         )
         
         result = response.choices[0].message.content
-        debug_print(f"   📥 LLM response received for batch {batch_num}")
+        debug_print(f"LLM response received for batch {batch_num}")
         
         # Clean the response (remove markdown code blocks if present)
         cleaned_result = result.replace('```json', '').replace('```', '').strip()
         
         # Parse JSON
         parsed_data = json.loads(cleaned_result)
-        debug_print(f"   ✅ Batch {batch_num} processed successfully: {len(parsed_data)} movies")
+        debug_print(f"Batch {batch_num} processed successfully: {len(parsed_data)} movies")
         return parsed_data
         
     except Exception as e:
-        debug_print(f"   ❌ Error processing batch {batch_num}: {e}")
+        debug_print(f"Error processing batch {batch_num}: {e}")
         return None
 
 def main():
-    debug_print("🚀 Starting Nicholas Cage Movie Scraper with LLM Processing...")
+    debug_print("Starting Nicholas Cage Movie Scraper with LLM Processing...")
     debug_print("=" * 60)
     
     # Test LLM connection first
     if not client:
-        debug_print("❌ LLM client not available")
+        debug_print("LLM client not available")
         return
     
     # Step 1: Scrape raw data
-    debug_print("\n📊 Step 1: Scraping movie data...")
+    debug_print("Step 1: Scraping movie data...")
     raw_movies = scrape_nicholas_cage_movies()
     
     if not raw_movies:
-        debug_print("❌ No movies scraped. Exiting.")
+        debug_print("No movies scraped. Exiting.")
         return
     
-    debug_print(f"📦 Scraped {len(raw_movies)} raw movies")
+    debug_print(f"Scraped {len(raw_movies)} raw movies")
     
     # Step 2: Process with LLM (ALL movies)
-    debug_print("\n🤖 Step 2: Processing ALL movies with LLM...")
+    debug_print("Step 2: Processing ALL movies with LLM...")
     processed_movies = process_movies_with_llm(raw_movies, batch_size=15)
     
     # Step 3: Save results
-    debug_print("\n💾 Step 3: Saving results...")
+    debug_print("Step 3: Saving results...")
     
     # Save raw data
     with open('nicholas_cage_raw_movies.json', 'w', encoding='utf-8') as f:
         json.dump(raw_movies, f, indent=2, ensure_ascii=False)
-    debug_print(f"✅ Raw data saved: {len(raw_movies)} movies")
+    debug_print(f"Raw data saved: {len(raw_movies)} movies")
     
     # Save processed data
     if processed_movies:
@@ -358,22 +358,22 @@ def main():
         df = pd.DataFrame(processed_movies)
         df.to_csv('nicholas_cage_processed_movies.csv', index=False)
         
-        debug_print(f"✅ Processed data saved: {len(processed_movies)} movies")
+        debug_print(f"Processed data saved: {len(processed_movies)} movies")
         
         # Display summary
-        debug_print("\n📊 PROCESSING SUMMARY:")
+        debug_print("PROCESSING SUMMARY:")
         debug_print(f"   Raw movies scraped: {len(raw_movies)}")
         debug_print(f"   Movies processed by LLM: {len(processed_movies)}")
         
-        debug_print("\n🎬 FIRST 5 PROCESSED MOVIES:")
+        debug_print("FIRST 5 PROCESSED MOVIES:")
         for movie in processed_movies[:5]:
             debug_print(f"   {movie.get('rank')}. {movie.get('title')} ({movie.get('release_year')}) - Rating: {movie.get('imdb_rating')}")
     
     else:
-        debug_print("❌ No movies were processed by LLM")
+        debug_print("No movies were processed by LLM")
     
-    debug_print("\n🎉 Script completed!")
-    debug_print("📁 Generated files:")
+    debug_print("Script completed!")
+    debug_print("Generated files:")
     debug_print("   - nicholas_cage_raw_movies.json")
     debug_print("   - nicholas_cage_processed_movies.json")
     debug_print("   - nicholas_cage_processed_movies.csv")
@@ -383,8 +383,8 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        debug_print("\n⏹️ Script interrupted by user")
+        debug_print("Script interrupted by user")
     except Exception as e:
-        debug_print(f"💥 Unexpected error: {e}")
+        debug_print(f"Unexpected error: {e}")
         import traceback
         debug_print(traceback.format_exc())
